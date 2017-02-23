@@ -480,6 +480,9 @@ h6,
 #ext_menu-i .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#slider-j P {
+  text-align: center;
+}
 #header3-2 .mbr-section-title,
 #header3-2 .mbr-section-subtitle {
   text-align: center;
@@ -493,6 +496,13 @@ h6,
 #features6-1 SPAN {
   font-family: 'Raleway', sans-serif;
   font-size: 16px;
+}
+#msg-box8-q .mbr-section-title,
+#msg-box8-q p {
+  color: #fff;
+}
+#msg-box8-q .lead {
+  color: #ffffff;
 }
 
 #menu-b .hide-buttons .nav-btn {

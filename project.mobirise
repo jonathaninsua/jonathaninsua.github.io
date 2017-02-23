@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 24,
+    "uniqCompNum": 27,
     "versionPublish": "3.10.4",
     "favicon": "",
     "noImageResize": ""
@@ -147,7 +147,7 @@
                 "showText": true,
                 "text": "My name is Jonathan Insua. I am a student at the tech production magnet at Miami Arts Studio. I am in 8th grade and I am 13 years old.<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More about me</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#content2-o\" data-toolbar=\"-mbrBtnMove\">More about me</a> "
               },
               {
                 "active": true,
@@ -159,7 +159,7 @@
                 "showTitle": true,
                 "title": "",
                 "showText": true,
-                "text": "Hi, this is a test",
+                "text": "We work on many applications such as Adobe Photoshop and Adobe Illustrator",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -183,7 +183,12 @@
             "showBullets": true
           },
           "_anchor": "slider-j",
-          "articleLayout": false
+          "articleLayout": false,
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_styles": {
@@ -273,7 +278,7 @@
               "size": 0
             }
           },
-          "title2": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\"><br></span>Game Designer<br><span style=\"font-weight: normal;\">Plan-B would be to be a video game designer.</span><br><span style=\"font-weight: normal;\">I would love to desgin games for kids like mario,</span><br><span style=\"font-weight: normal;\">pokemon, and other games like those.</span><br>",
+          "title2": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\"><br></span>Game Designer<br><span style=\"font-weight: normal;\">Plan-B would be to be a video game designer.</span><span style=\"font-weight: normal;\">I would love to desgin games for kids like mario,</span><span style=\"font-weight: normal;\">pokemon, and other games like those.</span><br>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -288,7 +293,7 @@
               "size": 0
             }
           },
-          "title3": "<br>Web Fonts<br><span style=\"font-weight: normal;\">My handwriting is really bad, so i love using fonts.</span><br><span style=\"font-weight: normal;\">So i would want to create fonts<br></span><br>",
+          "title3": "<br>Web Fonts<br><span style=\"font-weight: normal;\">I love using cool fonts</span><span style=\"font-weight: normal;\">So I would want to create fonts for other people<br></span><br>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -334,6 +339,56 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-q",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "My Biography",
+          "text": "A little bit about me",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>"
         },
         {
           "_name": "footer1",
