@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Illustrator.html",
     "name": "Jonathan Insua's Website",
     "theme": {
       "name": "mobirise3",
@@ -408,13 +408,13 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>14413 SW 11 St<br>Miami,FL<br><br>\n<strong>Contacts</strong><br>\nEmail: Jinsua@miamiartsstudio<br>\nPhone: +1 786-778-1856<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Tech Production Website</a></li><br></ul>",
+          "text1": "<strong>Address</strong><br>14413 SW 11 St<br>Miami,FL<br><br>\n<strong>Contacts</strong><br>\nEmail: Jinsua@miamiartsstudio.com<br>\nPhone: +1 786-778-1856<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Tech Production Website</a></li><li>MAS Website</li><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "jinsua@miamiartsstudio.com",
             "alerts": {
-              "success": "You have succsessfully sent the form. Thank you!"
+              "success": "You have succsessfully sent your message. Thank you!"
             },
             "fields": {
               "name": {
@@ -551,7 +551,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1482777853616-d3e688c8b11f-2000x1330-81.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -683,13 +683,13 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>14413 SW 11 St<br>Miami,FL<br><br>\n<strong>Contacts</strong><br>\nEmail: Jinsua@miamiartsstudio<br>\nPhone: +1 786-778-1856<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Tech Production Website</a></li><br></ul>",
+          "text1": "<strong>Address</strong><br>14413 SW 11 St<br>Miami,FL<br><br>\n<strong>Contacts</strong><br>\nEmail: Jinsua@miamiartsstudio.com<br>\nPhone: +1 786-778-1856<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Tech Production Website</a></li><li>MAS Website</li><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "jinsua@miamiartsstudio.com",
             "alerts": {
-              "success": "You have succsessfully sent the form. Thank you!"
+              "success": "You have succsessfully sent your message. Thank you!"
             },
             "fields": {
               "name": {
