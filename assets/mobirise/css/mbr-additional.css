@@ -1,8 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
-
 
 
 
@@ -483,29 +482,11 @@ h6,
 #slider-j P {
   text-align: center;
 }
-#header3-2 .mbr-section-title,
-#header3-2 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-2 H3 {
-  color: #000000;
-}
-#features6-1 H4 {
-  font-size: 20px;
-}
-#features6-1 SPAN {
-  font-family: 'Raleway', sans-serif;
-  font-size: 16px;
-}
-#msg-box8-q .mbr-section-title,
-#msg-box8-q p {
-  color: #fff;
-}
-#msg-box8-q .lead {
+#msg-box1-11 H3 {
   color: #ffffff;
 }
-#social-buttons4-t .mbr-section-title,
-#social-buttons4-t .btn-social {
+#social-buttons4-z .mbr-section-title,
+#social-buttons4-z .btn-social {
   color: #fff;
 }
 
@@ -524,11 +505,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-b .link {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }
 #menu-b .dropdown-item,
 #menu-b .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.866rem;
 }
 #menu-b .link:hover,
 #menu-b .dropdown-item:hover,
@@ -593,11 +574,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-6 .link {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }
 #menu-6 .dropdown-item,
 #menu-6 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.866rem;
 }
 #menu-6 .link:hover,
 #menu-6 .dropdown-item:hover,
