@@ -1349,8 +1349,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jonathan-insua-retro-build-2000x3037-31-800x1214-680.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jonathan-insua-retro-build-2000x3037-317.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jonathan-insua-retro-build-2000x3037-31-800x1214-6814.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jonathan-insua-retro-build-2000x3037-3121.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1359,8 +1359,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bumble-bee-add-font-and-text-title-1-revised-2000x1600-94-800x640-221.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bumble-bee-add-font-and-text-title-1-revised-2000x1600-948.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bumble-bee-add-font-and-text-title-1-revised-2000x1600-94-800x640-2215.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bumble-bee-add-font-and-text-title-1-revised-2000x1600-9422.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1369,8 +1369,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jonathan-insua-logo-2000x1889-74-800x755-192.png",
-                "image": "@PROJECT_PATH@/assets/images/jonathan-insua-logo-2000x1889-749.png",
+                "thumb": "@PROJECT_PATH@/assets/images/jonathan-insua-logo-2000x1889-74-800x755-1916.png",
+                "image": "@PROJECT_PATH@/assets/images/jonathan-insua-logo-2000x1889-7423.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1389,8 +1389,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jonathan-insua-dvd-design-cover-rough-draft-2000x1349-10-800x539-03.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jonathan-insua-dvd-design-cover-rough-draft-2000x1349-1010.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jonathan-insua-dvd-design-cover-rough-draft-2000x1349-10-800x539-017.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jonathan-insua-dvd-design-cover-rough-draft-2000x1349-1024.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1409,8 +1409,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jonathan-insua-cd-lp-inside-label-2000x2000-97-800x800-384.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jonathan-insua-cd-lp-inside-label-2000x2000-9711.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jonathan-insua-cd-lp-inside-label-2000x2000-97-800x800-3818.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jonathan-insua-cd-lp-inside-label-2000x2000-9725.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1419,8 +1419,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/star-wars-compilation-2000x666-45-800x266-745.jpg",
-                "image": "@PROJECT_PATH@/assets/images/star-wars-compilation-2000x666-4512.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/star-wars-compilation-2000x666-45-800x266-7419.jpg",
+                "image": "@PROJECT_PATH@/assets/images/star-wars-compilation-2000x666-4526.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1429,8 +1429,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rolo-2000x1700-26-800x680-276.jpg",
-                "image": "@PROJECT_PATH@/assets/images/rolo-2000x1700-2613.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rolo-2000x1700-26-800x680-2720.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rolo-2000x1700-2627.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
