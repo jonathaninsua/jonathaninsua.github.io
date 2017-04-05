@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 41,
+    "uniqCompNum": 45,
     "versionPublish": "3.10.4",
     "favicon": "",
     "noImageResize": ""
@@ -791,84 +791,135 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"Photoshop.html#gallery1-8\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
+          "_name": "header3",
+          "_anchor": "header3-18",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Gallery",
+          "meta": "A easily navigatible gallery of all of my pieces"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "6th Grade",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jonathan-insua-retro-build-2000x3037-41-800x1214-87.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jonathan-insua-retro-build-2000x3037-41.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jonathan-insua-retro-build-2000x3037-31-800x1214-68.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jonathan-insua-retro-build-2000x3037-31.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "6th Grade",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rolo-2000x1700-3-800x680-18.jpg",
-                "image": "@PROJECT_PATH@/assets/images/rolo-2000x1700-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bumble-bee-add-font-and-text-title-1-revised-2000x1600-94-800x640-22.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bumble-bee-add-font-and-text-title-1-revised-2000x1600-94.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "7th Grade",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bumble-bee-add-font-and-text-title-1-revised-2000x1600-39-800x640-34.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bumble-bee-add-font-and-text-title-1-revised-2000x1600-39.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jonathan-insua-logo-2000x1889-74-800x755-19.png",
+                "image": "@PROJECT_PATH@/assets/images/jonathan-insua-logo-2000x1889-74.png",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Creative",
+                "tags": "7th Grade",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jonathan-insua-ac-dc-album-cover-final-side-1-2000x1000-17-800x400-48.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jonathan-insua-ac-dc-album-cover-final-side-1-2000x1000-17.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jonathan-insua-completed-tattoo-2000x1179-50-800x471-61.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jonathan-insua-completed-tattoo-2000x1179-50.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Creative",
+                "tags": "7th Grade",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jonathan-insua-side-2-2000x1000-11-800x400-70.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jonathan-insua-side-2-2000x1000-11.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jonathan-insua-dvd-design-cover-rough-draft-2000x1349-10-800x539-0.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jonathan-insua-dvd-design-cover-rough-draft-2000x1349-10.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "7th Grade",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jonathan-insua-vintage-tv-2000x1559-87-800x623-5.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jonathan-insua-vintage-tv-2000x1559-87.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "8th Grade",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jonathan-insua-cd-lp-inside-label-2000x2000-97-800x800-38.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jonathan-insua-cd-lp-inside-label-2000x2000-97.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "8th Grade",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/star-wars-compilation-2000x666-45-800x266-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/star-wars-compilation-2000x666-45.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "8th Grade",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rolo-2000x1700-26-800x680-27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rolo-2000x1700-26.jpg",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/star-wars-compilation-2000x666-71-800x266-12.jpg",
-                "image": "@PROJECT_PATH@/assets/images/star-wars-compilation-2000x666-71.jpg",
-                "caption": "Type caption here",
-                "active": false
               }
             ],
-            "spacing": "1",
+            "spacing": 1,
             "showText": false,
-            "filter": false,
-            "bgColor": "#FFFFFF",
+            "filter": true,
+            "bgColor": "fff",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
           },
-          "_anchor": "gallery1-8",
+          "_anchor": "gallery4-16",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -1010,6 +1061,36 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-15",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.youtube.com/channel/UCFuCSEd45miWu24Ch4WJUzA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">More about me</a>",
+          "text": "A video made by me, about me.",
+          "title": "Intro Video"
+        },
+        {
           "_inherit": "features3",
           "_tags": [
             "Theme"
@@ -1129,67 +1210,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery2",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#2e2e2e",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery2-13",
-          "articleLayout": false,
-          "allItem": "All"
         },
         {
           "_inherit": "menu",
